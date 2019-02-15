@@ -49,5 +49,5 @@ For example: Please do a ```catkin_make ```, once you have modified your code.
 
 ## To add an image
 <p align="center"> 
-<img src="https://github.com/yushakareem/test-delete/blob/master/light-bulb-2-64.jpg">
+<img src="https://github.com/yushakareem/test-delete/blob/master/light-bulb-2-256.gif">
 </p>
