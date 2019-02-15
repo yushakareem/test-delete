@@ -1,8 +1,5 @@
 # Title of the project
 
-## Table of Contents
-The Table of Contents helps the reader to find specific information and indicates how the information has been organised.
-
 ## Objective of the Project
 It describes what the project wants to achieve and defines terminologies. Presents the hardware or tools used in the project.
 
@@ -41,7 +38,7 @@ For example, making a link to [ROS tutorials](http://wiki.ros.org/ROS/Tutorials)
 
 ## To show, how to execute some commands in the terminal
 
-    ```bash
+    ```
     sudo apt install ros-kinetic-opencv3 #(should be already installed with previous point)
     sudo apt install ros-kinetic-opencv-apps
     ```
